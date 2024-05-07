@@ -1,0 +1,145 @@
+[
+
+    {
+    "food_id":1,
+    "sessionId":"123",
+    "food_name":"Kebab",
+    "belong_to":"Turkiye",
+    "food_img":"https://www.kebaphanhalilusta.com/wp-content/uploads/2018/11/MG_6057-1.jpg",
+    "food_includes":"Malzemeler: 500 gr kıyma, 1 adet soğan, 100 gr kuyruk yağı, 2 diş sarımsak, 1 adet kapya biber, 1 çay kaşığı biber salçası, tuz, karabiber, pul biber Lavaş İçin:2 su bardağı ılık su, 3 yemek kaşığı yoğurt, 2 yemek kaşığı zeytinyağı, 1 paket instant maya, 1 tatlı kaşığı tuz, 1 tatlı kaşığı şeker, aldığı kadar un",
+    "food_make":"Hazırlanışı: İlk olarak soğanı ve kapya biberi rondodan geçirin ya da ince ince doğrayın.Suyunu iyice sıkın. Kıymanın içerisine ekleyin.Tuz ve karabiberi de ekleyip güzelce yoğuralım ve dinlenmesi için dolaba kaldıralım.Bu sıra da lavaş için un hariç bütün malzemeleri derin bir kap içerisine alalım.Unu kontrollü ekleyip kıvamlı bir hamur yoğuralım yarım saat kadar mayalansın.Mayalanan hamuru 10-12 eşit parçaya bölelim.Her bir parçayı yuvarlak açıp tava da arkalı önlü pişirelim.Pişen lavaşları bir bez ya da örtüyle güzelce saralım.Dinlenen kıymayı yumruk büyüklüğünde parçalar alıp şişe geçirelim. Şiş yoksa tahta çubuklara geçirelim.Kebap şeklini verip döküm tava da yada normal tava da pişirelim.Lavaş ekmeği arasında domates, biber soğanla servis edelim. Afiyet olsun!"
+    
+    
+    },
+    
+    
+    {
+        "food_id":2,
+        "sessionId":"1234",
+        "food_name":"Pizza",
+        "belong_to":"Italy",
+        "food_img":"https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/napoli-pizza_.webp",
+        "food_includes":"Malzemeler: Hamuru için:5 su bardağı un, 1.5 su bardağı ılık su,1 paket kuru maya, 1 çay kaşığı toz şeker, 1/2 çay kaşığı tuz, 4 yemek kaşığı zeytinyağı Sosu İçin:2 su bardağı domates sos, 2 yemek kaşığı zeytinyağı, 1 çay kaşığı kekik, 1 çay kaşığı fesleğen Üzeri İçin:1 su bardağı rendelenmiş kaşar peyniri, 120 gr sucuk, 4 yemek kaşığı konserve mısır, 100 gr zeytin, 1-2 adet biber, 1 diş sarımsak",
+        "food_make":"Hazırlanışı: Bir kabın içerisine 1 paket kuru mayayı dökün. Üzerine 1,5 su bardağı ılık su ve 1 çay kaşığı şekeri ekleyerek güzelce karıştırın.Daha sonra mayalı karışıma 4 yemek kaşığı zeytinyağını ve 1/2 çay kaşığı tuzu ekleyip tahta kaşıkla karıştırın.5 su bardağı unu azar azar ekleyin.Hamur kıvama gelince elinizle yoğurmaya başlayın ve ele yapışmayan, yumuşak bir hamur haline gelene kadar yoğurmaya devam edin.Hamur istediğiniz yumuşaklığa ulaşınca, kabın üzerini bir streç film ile kaplayıp en az 30 dakika hamurunuzu dinlendirin.Dinlenen hamurunuzu un serptiğiniz tezgaha alıp, katlayarak havasını çıkarın. Hamuru toparlayıp, 2 ya da 3 parçaya ayırın. İnce hamurlu ve orta boy pizza yapmak istiyorsanız hamurunuzu 3’e bölün. Daha büyük ve kalın hamurlu 2 pizza yapmak istiyorsanız, ikiye bölebilirsiniz.Kestiğiniz parçayı beze haline getirip un serptiğiniz tezgahın üzerinde merdane yardımıyla açın.Dilediğiniz inceliğe ulaştığınızda pişirme kağıdı serdiğiniz tepsinin üzerine alın. Bir çatal yardımıyla pizza hamurunun üzerinde delikler açın ve önceden ısıtılmış 200 derece fırında 10 dakika pişirin.Pizza sosunu, 2 su bardağı domates sosuna, 1 çay kaşığı fesleğen, 1 çay kaşığı kekik, sarımsak ve zeytinyağı ekleyerek hazırlayabilirsiniz.10 dakika sonra hafif pişen hamuru fırından çıkarıp, hazırladığınız domates sosundan üzerine sürün.Pizza sosunun üzerine 1 su bardağı rendelenmiş kaşar ve 1 çay bardağı mozarella peyniri yerleştirdikten sonra üzerine dileğiniz malzemeleri ekleyin. Burada serbest olabilirsiniz. Malzemeleri yerleştirdikten sonra en üste tekrar rendelenmiş kaşar ekleyin.Tekrar fırına koyun ve 20 dakika daha pişirin. Peynirler güzelce eriyip tüm malzemeler piştiğinde pizzanızı fırından çıkarabilirsiniz.Ev usulü pizza tarifi hazır! Afiyet olsun!"
+        },
+        
+    
+    {
+        "food_id":3,
+        "sessionId":"12345",
+        "food_name":"Tiramisu",
+        "belong_to":"Italy",
+        "food_img":"https://aperatifyemekler.com/wp-content/uploads/2022/12/kek-ile-tiramisu-tarifi.webp",
+        "food_includes":"Malzemeler: 1 adet hazır pandispanya keki Muhallebisi için:2.5 su bardağı süt, 3 yemek kaşığı toz şeker (tepeleme dolu), 3 yemek kaşığı un (tepeleme dolu), 1 adet yumurta, 200 gram labne peyniri (1 paket) Islatmak için:1/2 (yarım) su bardağı sıcak su, 3’ü bir arada hazır kahve Üzeri için; kakao ",
+        "food_make":"Hazırlanışı: Öncelikle muhallebi için şeker, un, süt ve yumurta çırpılır. Ocakta kaynayıncaya kadar karıştırılarak pişirilir.Kaynadıktan sonra altı kapatılır ve daha hızlı soğuması için ayrı bir kaba boşaltılır.15 dk kadar bekleyip ılındıktan sonra labne peyniri ilave edilip mikser ile pürüzsüz hale gelene kadar çırpılır.Diğer taraftan sıcak su içinde hazır kahve çözdürülerek hazırlanır ve hafif soğuması beklenir.Servis tabağına pandispanya kekinin bir katı yerleştirilerek kahvenin yarısı ile ıslatılır.Üzerine kremanın yarısı ilave edilip güzelce yayılır.Kalan kahve ile üst kat da ıslatıldıktan sonra pandispanyanın ikinci katı kremanın üzerine kapatılır.Kalan krema pastanın üzerine dökülerek pastanın üzeri ve kenarları güzelce spatula veya pasta sıvama aparatı ile kapatılır.Son olarak pastanın üzerine süzgeç yardımı ile kakao serpilir.Buzdolabında birkaç saat mümkünse 1 gece dinlendirildikten sonra dilimlenerek servis edilir.Afiyet olsun!"
+            
+        },
+    
+    
+        {
+            "food_id":4,
+            "sessionId":"123456",
+            "food_name":"Lahmacun",
+            "belong_to":"Turkiye",
+            "food_img":"https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/lahmacun-yeni-one-cikan.jpg",
+            "food_includes":"Malzemeler: İç harcı için:2 adet kırmızı biber, 3 adet yeşil biber, 2 adet orta boy soğan, 1 demet maydanoz, 2 adet domates, 1 yemek kaşığı domates salçası, 1 yemek kaşığı biber salçası, 1/2 çay kaşığı pul biber, 1 çay kaşığı toz kırmızı biber, 1 çay kaşığı tuz, 1 çay bardağı sıvıyağ, 1/4 çay bardağı su, 500gr yağlı dana kıyma Hamuru İçin: 5 su bardağı un, 2 su bardağı su, 1 tatlı kaşığı tuz, 1 çay kaşığı toz şeker",
+            "food_make":"Hazırlanışı: Mutfak robotuna kırmızı biberleri, yeşil biberleri, soğanları ve domatesleri ilave edin.Tamamen püre haline gelmeyecek şekilde çekin.Maydanozları da ekleyin ve 10 saniye kadar daha çekin.Domates salçası, biber salçası, sıvı yağ ve suyu ekleyin. Son olarak kıymayı ekleyerek güzelce yoğurun.Lahmacunun lezzetli olması için harcınızın cıvık bir kıvamda olması gerekir. Yeteri kadar cıvık bir kıvamda değilse, biraz su ekleyebilirsiniz.Hazırladığınız harcı vaktiniz varsa bir süre buzdolabında dinlendirin.Harcınız dinlenirken, hamurunuzu yapmaya başlayın. Suyu bir kaba dökün, üzerine tuz ve şekeri ilave ederek güzelce karıştırın. Azar azar da un ilave edin. Orta sertliğe ulaşana dek yoğurun.Hamuru bir silindir haline getirip eşit parçalara bölün. Aynı büyüklükte lahmacunlar yapabilmek için hamurlarınızın ağırlığı da eşit olmalıdır. Bezeleri bir süre dinlenmeye bırakın.Hazırladığınız bezeleri yemek tabağı büyüklüğünde açın. Mümkün olduğu kadar ince açmanız önemlidir. Bu sırada fırınınızı 250 derece fanlı ve alt-üst açık olacak şekilde açın. Güzelce ısıtın.Açtığınız hamurların üzerine kıymalı harcı yayın. Fırının tabanına yağlı kağıt ile birlikte yerleştirin ve 7-10 dakika altı kızarana kadar pişirin.Sumaklı soğan, maydanoz ve bol limonla servis edin.Afiyet olsun!"
+         },
+    
+    
+         {
+            "food_id":5,
+            "sessionId":"1234567",
+            "food_name":"Gnocchi",
+            "belong_to":"Italy",
+            "food_img":"https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/vimdb/72233.jpg",
+            "food_includes":"Malzemeler: Gnocchi Domates Sosu İçin: 1 adetrendelenmiş domates, 1 tatlı kaşığı salça, 1/2 su bardağı su, 2 yemek kaşığı zeytinyağı, 1 çay kaşığı tuz Gnocchi Makarna Hamuru İçin: 2 adet patates, 1 adet yumurta sarısı 1,5 su bardağı un (kontrollü koyun) 1 çay kaşığı tuz, 1 çay kaşığı karabiber",
+            "food_make":"Hazırlanışı: Patatesleri kabuklarıyla haşlayıp soyun. İnce bir tel süzgece alın ve ezerek geçirip pürüzsüz bir kıvam elde edin.Patates püresinin içine yumurta sarısını, tuz ve karabiberi ekleyin. Unu da kontrollü ekleyip yoğurun.Ele yapışmayan bir hamur elde edin.Hamuru ince rulo yapıp küçük parçalar kesin.Parçaları çatal yardımı ile şekillendirin. Kaynamış suya atın ve 2 dakika pişirin.Tavaya yağı alın. Domates rendesini ekleyip kavurun.Üzerine salçayı ekleyip kavurmaya devam edin.Su yüzüne çıkan hamurları bir tabağa alın.Tuz ve suyunu da ekleyip kıvam alana kadar pişirin. Gnocchileri sosun içine alın ve 5 dakika pişirin. Servis tabağına alın.Gnocchi tarifiniz hazır. Afiyet olsun!"
+           
+            },
+    
+        {
+           "food_id":6,
+           "sessionId":"12345678",
+           "food_name":"Pakora",
+           "belong_to":"India",
+           "food_img":"https://www.recipetineats.com/wp-content/uploads/2021/05/Pakora_1-SQ1.jpg",
+           "food_includes":"Malzemeler: 2 orta boy soğan,  1 yeşil acı biber, 1 su bardağı un, Yarım su bardağı mısır ya da pirinç unu, Rendelenmiş 2 diş sarımsak, Maydanoz, 1 er çay kaşığı kimyon, köri ,toz zencefil ,acı toz biber, zerdeçal ,sarımsak tozu, Kızartmak için; yağ",
+           "food_make":"Hazırlanışı: Soğanları yarım halka doğruyoruz.Bütün malzemeleri karıştırıp krepten daha yoğun olan bir kıvam yapıyoruz.Kızgın yağa kaşıkla parçalar koyup kızartıyoruz.Biraz dinlendirelim yemeye hazır.Afiyet olsun!"
+                
+                },
+           
+    
+       {
+         "food_id":7,
+         "sessionId":"123456789",
+         "food_name":"Meat Pie",
+         "belong_to":"Australia",
+         "food_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgBFjMAnf_pJNo2Aob48XbmN9KIc2C_esDA&usqp=CAU",
+         "food_includes":"Malzemeler: 1 orta boy soğan,  1 diş sarımsak, 1 adet havuç, kestane mantarı, 500 gr dana bonfile, 1 su bardağı su, 2 adet domates, 1/4 su bardağı domates salçası, 2 çay kaşığı worhcestire sosu,karabiber, zeytinyağı, tuz Tart Hamuru İçin:215 gr un, 125 gr soğuk tereyağı, 1 çay kaşığı pudra şekeri, 1 adet yumurta sarısı, tuz Üzeri İçin:ketçap",
+         "food_make":"Hazırlanışı: İlk olarak soğanları ince ince doğrayın. Etleri ise küp şeklinde doğrayın.Et ve soğanları tencerede kavurun. Ardından dilimlenmiş mantar ve havucu ekleyerek karıştırın.Daha sonra domates salçasını ekleyerek karıştırmaya devam edin.Salçanın kokusu çıktıktan sonra domatesleri ilave edin.Hepsini birlikte kavurduktan sonra marmite ve worhcestire sosunu ekleyin.Et suyunu da ilave ettikten sonra düdüklü tencerede pişirin.Tart hamuru için; Tüm malzemeleri bir kabın içerisine ekleyin ve yoğurun.Hamur kıvam aldığında streç ile örterek buzdolabında dinlendirin.Hamur dinlendikten sonra kör pişirme yöntemiyle yaklaşık 15 dakika pişirin.Ardından hamurları küçük porsiyonlara ayırın. Harcın üzerine tart hamuru sererek baklava deseni verin.Hamurun üzerine yumurta sarısı sürün. Önceden ısıtılmış fırında üzeri kahverengi olana kadar pişirin.Aussie pie tarifini, ev yapımı ketçap ile birlikte servis edebilirsiniz.Afiyet olsun!"
+           
+                      
+                },
+            
+       {
+         "food_id":8,
+         "sessionId":"12345678910",
+         "food_name":"Nasi Goreng",
+         "belong_to":"Indonesia",
+         "food_img":"https://www.chilipeppermadness.com/wp-content/uploads/2020/11/Nasi-Goreng-Indonesian-Fried-Rice-SQ.jpg",
+         "food_includes":"Malzemeler: 3 yemek kaşığı sıvıyağ, 2 diş sarımsak, 1 adet tavuk kalça, 1/4 adet kırmızı soğan, 1 tatlı kaşığı taze zencefil, 1 adet yumurta, 2 su bardağı basmati pirinci, 2 yemek kaşığı sambal sos, 2 yemek kaşığı tatlı soya sosu, 1 tatlı kaşığı balık sosu Üzeri İçin:1 yemek kaşığı sıvıyağ, 1 adet yumurta, 1/2 salatalık, 3 adet karides cipsi, 1 tatlı kaşığı sambal sos",
+         "food_make":"Hazırlanışı: Büyük bir wok tavayı ısıtın, içerisine önce sıvı yağ ve küp doğranmış tavuk parçalarını koyup kızarana kadar soteleyin.Ardından tavaya minik küpler halinde doğranmış kırmızı soğan, sarımsak ve zencefili ekleyip hafif renk alana kadar kavurun.Tavaya yumurtayı da ekleyip karıştırarak kavurun, ardından haşlanmış ve soğutulmuş pirinçleri ve sosları da ekleyip yüksek ateşte pirincin hafif dibi tutana kadar kavurup ocaktan alın. Dilerseniz tatlı soya sosu yerine 2 yemek kaşığı soya sosu ve 1 tatlı kaşığı esmer şeker de kullanabilirsiniz.Servis tabağına aldığınız pilavın üzerine yağda kızarttığınız göz yumurta, salatalık dilimleri, karides cipsi ve biraz daha sambal sos koyup servis edin.Afiyet olsun!"
+                                 
+                           },
+                           
+        {
+            "food_id":9,
+            "sessionId":"1234567891011",
+            "food_name":"Mac And Cheese",
+            "belong_to":"American",
+            "food_img":"https://hips.hearstapps.com/hmg-prod/images/mac-and-cheese-index-64d25bdf03b98.jpg?crop=0.501xw:1.00xh;0.352xw,0&resize=1200:*",
+            "food_includes":"Malzemeler: 1 adet dirsek makarna Peynir Sosu İçin:4 yemek kaşığı tereyağı, 1 yemek kaşığı un, 1 su bardağı süt, 2 su bardağı cheddar peyniri, yarım su bardağı permaşan peyniri Üzeri için:yarım su bardağı ekmek kırıntısı",
+            "food_make":"Hazırlanışı: Makarnayı bol suda haşlayın ama biraz diri kalsın çok yumuşamasın. Süzgece alın ama üzerine tekrardan su gezdirmeyin kendi haşlandığı su süzülsün yeterli.Tencereye tereyağını alın, unu biraz yağ ile kavurun. Sütü ekleyin ve kaynamaya bırakın, tel çırpacakla sürekli çırpıp pütürlerini giderin.Cheddar ve parmesan peyniri ekleyin, peynir eriyince makarnayı ekleyin ve iyice karıştırın.Ocağı kısın tencerenin kapağını kapatın makarna peynir sosunu iyice içine çekince ocağı kapatın. İsterseniz bu aşamada servise geçebilirsiniz.Eğer bu yemeği ana yemek yanına yapacaksanız en son bunu hazırlamanız lazım, çünkü sıcak yenmesi gerekiyor, soğudukça peyniri katılaşır.Eğer bu tarifi ana yemek olarak sunacaksanız, bu aşamada pişmiş tavuk eti ve mantar katılıp karıştırılır.Mac’n’cheese fırında da güzel oluyor, tencerede peynir ve makarnayı karıştırdıktan sonra borcama aktarın ve üzerine ekmek kırıntısı serpin fırına verin, 400 derece fırında üzeri hafif kızarıncaya kadar pişirin, ve servis edin. Afiyet olsun!"
+                                                 
+                             },
+        
+    
+        {
+            "food_id":10,
+            "sessionId":"123456789101112",
+            "food_name":"Burrito",
+            "belong_to":"Mexican",
+            "food_img":"https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/ebe9f392c2ee3f6eecc8746040b4df54/Derivates/6b7ab4f106d32e482b7791e8bd81f53a2be55886.jpg",
+            "food_includes":"Malzemeler: 4 adet tortilla, 250 gr yağsız biftek, 1 yemek kaşığı zeytinyağı, 1/2 adet kırmızı soğan, 1 diş sarımsak, 1 adet domates, 1 adet kırmızı biber, 2 yemek kaşığı domates püresi, 1/2 çay bardağı et suyu, 150 gr konserve meksika fasulyesi, 1 su bardağı rendelenmiş kaşar peyniri, 4 dal taze kişniş, 1/2 çay kaşığı kimyon, 1/2 çay kaşığı kırmızı toz biber, 1/2 çay kaşığı tuz Ekşi Krema Sosu İçin:2 yemek kaşığı süzme yoğurt, 1/2 su bardağı çiğ krema",
+            "food_make":"Hazırlanışı: Kırmızı soğan ve sarımsağı yemeklik doğrayın. Kabuğunu soyduğunuz domatesi küçük küpler halinde doğrayın.Yağsız biftek etini uzunlamasına kesin. Ortadan ikiye kesip, çekirdeklerini çıkardığınız kırmızı biberi etlerle uyumlu olacak şekilde doğrayın.Zeytinyağını geniş bir tavada kızdırın. Yemeklik doğradığınız soğan ve sarımsakları renk alana kadar soteleyin.Biftek dilimlerini de ekledikten sonra yüksek ateşte soteleme işlemini 5 dakika kadar sürdürün. Ardından; kırmızı biberleri ekleyin ve karıştırın.Kimyon, toz kırmızı biber ve tuzu katın, karıştırın. Doğranmış domates, domates püresi, ince kıyılmış taze kişniş yapraklarını ilave edin.Et suyu ve konserve Meksika fasulyesini de ekledikten sonra sos karışımını kısık ateşte 10 dakika kaynatın.Hazır tortilla ekmeklerini kızgın tavada 1 dakika kadar ısıtın. Etli sos karışımını dörde bölüp, tortilla ekmeklerinin orta kısmına yerleştirin.Ekmeklerin kenar kısımlarını ortaya doğru katladıktan sonra tortillaları, rulo şeklinde dürüm gibi sarın.Bu şekilde fırın tepsisine yerleştirin. Üzerlerine rendelenmiş kaşar peyniri serpiştirin. Önceden ısıtılmış 200 derece fırında peynir eriyene kadar 10 dakika fırınlayın.Servisinde kullanmak üzere; süzme yoğurt ve kremayı hızlıca çırparak, ekşi krema sosunu hazırlayın.Fırından çıkan sıcak burritolar ile ikram edin. Afiyet olsun!"
+
+                                                                     
+                              },
+    
+       {
+            "food_id":11,
+            "sessionId":"12345678910111213",
+            "food_name":"Souvlaki",
+            "belong_to":"Greece",
+            "food_img":"https://modernmealmakeover.com/wp-content/uploads/2021/08/Chicken-Souvlaki-4.jpg",
+            "food_includes":"Malzemeler: 1/4 bardak zeytinyağı, 2 yemek kaşığı limon suyu, 1 çay kaşığı tuz, 1 çay kaşığı öğütülmüş karabiber, 1 çay kaşığı kekik, 8 adet kemikleri ve derisi alınmış tavuk göğüsü",
+            "food_make":"Hazırlanışı: Tüm malzemeleri bir buzluk poşetinin içinde karıştırın.20 dakika boyunca salamurada bekletin.Her göğüs parçasını ikiye katlayın.Eti ızgara şişine geçirin.Çatallarla emniyete alın.Döner ızgara düğmesine basın.Pişirmeyi başlatmak için süreyi 25 dakikaya ayarlayın.Tavuğun iç sıcaklığı 75°C’ye ulaşana kadar ızgaraya devam edin. Afiyet olsun!"
+        
+                                                                                                                  
+                                 },
+    
+    
+       {
+             "food_id":12,
+             "sessionId":"1234567891011121314",
+             "food_name":"Tod Mun Pla",
+             "belong_to":"Thailand",
+             "food_img":"https://miro.medium.com/v2/resize:fit:1400/1*5QCabRNCMrkdbOU0TUqbxg.jpeg",
+             "food_includes":"Malzemeler: 220 gr levrek veya çipura fileto, 1 adet yumurta, 2 yemek kaşığı kırmızı köri ezmesi, 5 adet ince dilimlenmiş yeşil fasulye, 2 adet lime kabuğu rendesi, 2 yemek kaşığı sıvıyağ",
+             "food_make":"Hazırlanışı: Balık filetoları birkaç parçaya bölünür.Bütün malzeme rondodan geçirilir.Kıvam çok cıvık gelirse eğer 1 tatlı kaşığı un ekleyebilirsiniz.Köfte şekli verilir.Sıvıyağ tava da ısıtılır ve arkalı önlü balık köfteleri kızartılır. Afiyet olsun!"
+                                                                                                                                          
+                                  }
+                                                                                                      
+    ]
+                           
